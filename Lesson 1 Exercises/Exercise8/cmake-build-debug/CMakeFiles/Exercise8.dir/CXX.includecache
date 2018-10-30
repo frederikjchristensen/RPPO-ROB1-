@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/OneDrive/AAU - Robotics/1 - Semester - programming/Lesson 1 Exercises/Exercise8/main.cpp
+iostream
+-
+cmath
+-
+

@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Frederik Christensen/OneDrive/AAU - Robotics/1 - Semester - programming/control_flow_loops_arrays/Exercise1/main.cpp
+iostream
+-
+stdlib.h
+-
+time.h
+-
+

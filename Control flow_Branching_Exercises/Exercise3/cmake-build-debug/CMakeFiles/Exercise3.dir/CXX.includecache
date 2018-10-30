@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Frederik Christensen/OneDrive/AAU - Robotics/1 - Semester - programming/Control flow_Branching_Exercises/Exercise3/main.cpp
+iostream
+-
+cmath
+-
+stdlib.h
+-
+time.h
+-
+

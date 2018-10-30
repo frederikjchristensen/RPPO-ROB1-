@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1536231229 source:c:\users\frede\onedrive\cpp - exercises\exercise4\main.cpp
+	<iostream>
+	<cmath>
+
