@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Frederik Christensen/Desktop/Git/RPPO-ROB1-/Structs_Classes_sorting/Lesson Exercise 2/main.cpp
+iostream
+-
+
